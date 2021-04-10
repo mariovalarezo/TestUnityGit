@@ -1,0 +1,238 @@
+{
+  "stands": {
+    "standInsitucional":[
+      {
+        "id": "abcdef-007",
+        "catalogue": {
+          "url": "https://www.utpl.edu.ec/carreras/computacion"
+        },
+        "chat": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "meeting": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "carrouselUrls": [
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-1.jpg?alt=media&token=74cadb5c-cfd6-46ec-b185-163ec142b789"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-2.jpg?alt=media&token=b0c95f6d-22f8-45d4-81bd-fc8b2a05b32b"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-3.jpg?alt=media&token=1a70a572-bd80-411e-abbe-06d03ef98b0f"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FContabilidad%2Fimagenes-casa-abierta-contabilidad-5.jpg?alt=media&token=89572294-b28c-4ff9-9f88-605640692b41"
+            }
+          }
+        ],
+        "name": "Contabilidad y Auditoría",
+        "video": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Video%2Fconta%2FContabilidad_distancia_bimodal.mp4?alt=media&token=a4b5b2a0-0ccc-4bfd-937a-4eda47e0505f"
+        }
+      },
+
+
+
+      {
+        "id": "abcdef-007",
+        "catalogue": {
+          "url": "https://www.utpl.edu.ec/carreras/computacion"
+        },
+        "chat": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "meeting": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "carrouselUrls": [
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-1.jpg?alt=media&token=bcfb601d-e985-41b0-b45d-507991e0b91e"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-2.jpg?alt=media&token=09d3e0d2-c64e-4784-912d-b870096a08ae"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-3.jpg?alt=media&token=884c54c2-37ba-4b04-899a-115ca92ea19a"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FAdmin%2Fimagenes-casa-abierta-admin-empresa-5.jpg?alt=media&token=934c08b7-ec45-42ed-bf78-6d09a4b8ada9"
+            }
+          }
+        ],
+        "name": "Administración de empresas",
+        "video": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Video%2Fadmin%2FAdministraci%C3%B3n%20de%20empresas-Distancia%20-%20Bimodal.mp4?alt=media&token=3794abdb-7e96-4175-b035-76f581ffe789"
+        }
+      },
+      {
+        "id": "abcdef-007",
+        "catalogue": {
+          "url": "https://www.utpl.edu.ec/carreras/computacion"
+        },
+        "chat": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "meeting": {
+          "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+        },
+        "carrouselUrls": [
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-1.jpg?alt=media&token=9ff03e33-8cd5-46a6-9976-5407db43a79e"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-2.jpg?alt=media&token=0769bca0-1ce0-4a57-a991-bbc301de26fa"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-3.jpg?alt=media&token=0b0a16ec-bc1c-410b-984e-dd71c1a577fc"
+            }
+          },
+          {
+            "small": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+
+            },
+            "original": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FEconomia%20%2Fimagenes-casa-abierta-economia-5.jpg?alt=media&token=26fe3e6f-b182-466a-b9de-9c08c4beee3e"
+            }
+          }
+        ],
+        "name": "Economía",
+        "video": {
+          "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Video%2Feco%2FEconom%C3%ADa_distancia_bimodal.mp4?alt=media&token=fa59e179-1b69-47ad-9be3-b241dd72b706"
+        }
+      }
+
+
+		
+
+
+
+
+
+
+  ],
+    "standAcademico":[
+    {
+      "id": "abcdef-008",
+      "catalogue": {
+        "url": "https://www.utpl.edu.ec/carreras/computacion"
+      },
+      "chat": {
+        "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+      },
+      "meeting": {
+        "url": "https://api.whatsapp.com/send?phone=593987307747&text=hola,%20qué%20tal?"
+      },
+      "images": [
+        {
+          "small": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+            
+          },
+          "original": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fos%2Fmario.png?alt=media&token=14094e79-8476-421a-a462-ae4100b7659f"    
+          }
+        },
+        {
+          "small": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+            
+          },
+          "original": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FCatalogoV2.png?alt=media&token=abd61a9e-aa7e-4c1a-a3d8-fc4607521ab1"    
+          }
+        },
+        {
+          "small": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+            
+          },
+          "original": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2FPosterPrincipal.jpg?alt=media&token=6e61745c-319f-4ed2-83c3-98e680868642"    
+          }
+        },
+        {
+          "small": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Fotos%2FDzpbMcUX4AAGSfq.jpg?alt=media&token=0627cb19-ad66-4ec2-8804-a2292995966a"
+            
+          },
+          "original": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Imagenes%20Verticales%2Fimg1.jpg?alt=media&token=3614b25e-c404-4dc0-97fe-f1774507abf6"    
+          }
+        }
+      ],
+      "name": "Administracion de Empresas",
+      "video": {      
+        "url": "https://firebasestorage.googleapis.com/v0/b/pruebasga-6aa17.appspot.com/o/Video%2Fy2mate.com%20-%20Estudia%20Computaci%C3%B3n%20%20Modalidad%20Presencial%20UTPL_480p.mp4?alt=media&token=a6c85de6-0c9f-488c-8675-4155206b59dd"        
+      }
+    }
+  ]
+
+
+}
+}
