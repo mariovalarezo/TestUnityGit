@@ -13,4 +13,9 @@ public class sendMeetingUrl : MonoBehaviour,IAction
     }
 
 
+   void Start()
+    {
+        Debug.Log("David se lo hetsotearon en el fornite");
+    }
+
 }
